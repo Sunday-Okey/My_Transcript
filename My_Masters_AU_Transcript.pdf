@@ -1,15 +1,15 @@
 %PDF-1.4
 %”ÙÃ·
 % PDFsharp Version 1.32.2608.0 (verbose mode)
-% Creation date: 8/20/2023 2:15:20 PM            
+% Creation date: 12/19/2023 12:28:53 AM          
 % Creation time: 0.000 seconds                   
-% File size: 288840 bytes                        
+% File size: 289236 bytes                        
 % Pages: 2                                       
 % Objects: 10                                    
 %--------------------------------------------------------------------------------------------------
 1 0 obj   % PdfSharp.Pdf.PdfDocumentInformation
 <<
-  /CreationDate (D:20230820141520-04'00')
+  /CreationDate (D:20231219002853-05'00')
   /Creator (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
   /Producer (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
 >>
@@ -62,7 +62,7 @@ endobj
 %--------------------------------------------------------------------------------------------------
 7 0 obj   % PdfSharp.Pdf.PdfDictionary
 <<
-  /Length 14575
+  /Length 14971
 >>
 stream
 
@@ -92,7 +92,7 @@ BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 541.224 Td ( ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 532.368 Td ( ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 523.512 Td ( ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 514.656 Td (      ) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 30.096 514.656 Td (08/20/23) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 30.096 514.656 Td (12/19/23) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 67.536 514.656 Td (                                                          ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 339.048 514.656 Td (1) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 343.728 514.656 Td ( OF ) Tj T* ET
@@ -197,37 +197,43 @@ BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 319.824 Td (    CSC-) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 39.456 319.824 Td (676) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 53.496 319.824 Td (        COMPUTER VISION                       ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 268.776 319.824 Td (03.00) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 292.176 319.824 Td (  -- --.--                                                                                 ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 292.176 319.824 Td (  A  ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 315.576 319.824 Td (12.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 338.976 319.824 Td (                                                                                 ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 310.968 Td (    DATA-) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 44.136 310.968 Td (642) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 58.176 310.968 Td (       ADVANCED MACHINE LEARNING             ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 268.776 310.968 Td (03.00) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 292.176 310.968 Td (  -- --.--                                                                                 ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 292.176 310.968 Td (  A  ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 315.576 310.968 Td (12.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 338.976 310.968 Td (                                                                                 ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 302.112 Td (    STAT-) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 44.136 302.112 Td (627) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 58.176 302.112 Td (       STATISTICAL MACHINE LEARNING          ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 268.776 302.112 Td (03.00) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 292.176 302.112 Td (  -- --.--                                                                                 ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 292.176 302.112 Td (  A  ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 315.576 302.112 Td (12.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 338.976 302.112 Td (                                                                                 ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 293.256 Td (                   AU SEM SUM: ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 147.096 293.256 Td (9.00) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 165.816 293.256 Td (HRS ATT ) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 203.256 293.256 Td (0.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 203.256 293.256 Td (9.00) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 221.976 293.256 Td (HRS ERND ) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 264.096 293.256 Td (0.00) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 282.816 293.256 Td (QP ) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 296.856 293.256 Td (0.00) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 315.576 293.256 Td (GPA                                                                                   ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 264.096 293.256 Td (36.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 287.496 293.256 Td (QP ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 301.536 293.256 Td (4.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 320.256 293.256 Td (GPA                                                                                  ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 284.4 Td (    ______________________________________________________________________                                                                               ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 275.544 Td (                                                                                                                                                         ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 266.688 Td (                   AU CUM SUM: ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 147.096 266.688 Td (30.00) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 170.496 266.688 Td (HRS ATT ) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 207.936 266.688 Td (21.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 207.936 266.688 Td (30.00) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 231.336 266.688 Td (HRS ERND ) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 273.456 266.688 Td (84.00) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 296.856 266.688 Td (QP ) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 310.896 266.688 Td (4.00) Tj T* ET
-BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 329.616 266.688 Td (GPA                                                                                ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 273.456 266.688 Td (120.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 301.536 266.688 Td (QP ) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 315.576 266.688 Td (4.00) Tj T* ET
+BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 334.296 266.688 Td (GPA                                                                               ) Tj T* ET
 BT /F4 7.8 Tf 0 0 0 rg 347.872 TL 2.016 257.832 Td (                   ***END OF TRANSCRIPT***                                                                                                               ) Tj T* ET
 Q
 Q
@@ -326,16 +332,16 @@ xref
 0000001293 00000 n 
 0000271589 00000 n 
 0000271823 00000 n 
-0000286584 00000 n 
-0000287015 00000 n 
-0000288041 00000 n 
+0000286980 00000 n 
+0000287411 00000 n 
+0000288437 00000 n 
 trailer
 <<
-  /ID [<B1A3587BA4ACD74C8DAEDCCD7298D3FE><B1A3587BA4ACD74C8DAEDCCD7298D3FE>]
+  /ID [<A25AFEE56BD0AF4D8425087A2D15CC7E><A25AFEE56BD0AF4D8425087A2D15CC7E>]
   /Info 1 0 R
   /Root 2 0 R
   /Size 11
 >>
 startxref
-288457
+288853
 %%EOF
